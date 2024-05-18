@@ -1,4 +1,4 @@
-# GPT Model Text Generation
+# GPT Model from scratch using Pytorch
 
 ## Personal Project
 
